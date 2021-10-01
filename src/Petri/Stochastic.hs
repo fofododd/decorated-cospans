@@ -16,6 +16,8 @@ module Petri.Stochastic
     foldMapNeighbors,
     foldNeighborsEndo,
     sirNet,
+    PetriNode,
+    Stochastic (..),
     SIR (..),
     debug,
   )

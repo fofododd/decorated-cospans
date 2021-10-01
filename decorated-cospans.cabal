@@ -29,6 +29,7 @@ common common-options
     , finitary
     , monoidal-containers
     , mtl
+    , these
     , transformers
 
   ghc-options:
